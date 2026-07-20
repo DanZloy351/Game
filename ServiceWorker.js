@@ -1,9 +1,9 @@
-const cacheName = "CompanyZloy-SpaceShip-0.1";
+const cacheName = "CompanyZloy-Агро-1.0";
 const contentToCache = [
-    "Build/MyNewGame.loader.js",
-    "Build/MyNewGame.framework.js",
-    "Build/MyNewGame.data",
-    "Build/MyNewGame.wasm",
+    "Build/MyClicer.loader.js",
+    "Build/MyClicer.framework.js",
+    "Build/MyClicer.data",
+    "Build/MyClicer.wasm",
     "TemplateData/style.css"
 
 ];
